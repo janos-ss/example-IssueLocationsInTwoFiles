@@ -4,7 +4,7 @@ using System.Text;
 
 namespace IssueBackdatingExample1
 {
-    partial class Employee : IDisposable
+    partial class Employee
     {
         public void DoNightActivity()
         {
